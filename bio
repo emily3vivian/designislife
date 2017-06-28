@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Bio</title>
+	<meta charset='utf-8'>
+	<meta name="viewport" content="width=device-width">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.2/normalize.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link href='http://fonts.googleapis.com/css?family=Raleway:400,300,500,700,800' rel='stylesheet' type='text/css'>
+</head>
+<link rel="icon" 
+      type="image/png" 
+      href="favicons/bio.ico">
+<body class = "bio">
+
+	<nav>
+		<ul>
+			<li><a href="nav/index.html">&#9760; Home </a></li>
+			<li><a href="gallery/gallery.html">&#9998; Gallery </a></li>
+			<li><a href="style-tile.html">&#10010; StyleTile </a></li>
+			<li><a href="contact.html">&#9762; Contact </a></li>
+		</ul>	
+	</nav>
+	<br>
+  <br>
+  <br>
+
+	<body background= "img/986e118b801ab0629fe4034faaa7cce4.jpg">
+
+	<div class = "container">
+		<article>
+			<!--Bio-->
+			<h1>&#9763;Emily Vivian's Resume&#9763;</h1>
+
+			<img src="img/81308913F181.jpg">
+			<h3>Contact</h3>
+				<ul>
+					<li><a href="contact.html">Click here</a> to leave me your thoughts on my work.</li>
+				</ul>
+			<section class = "bio-content">
+				<h3>My Bio</h3>
+					<!--self description, major, why this major-->
+					<ol>
+						My name is Emily Vivian, I'm 23 and a super senior at Eastern Washington University. I'm a VCD major because it's the greatest major out there, obviously. I love the masterpieces out of the bare minimum, and fixing things that have already been created. My first major at EWU was Business Marketing; my second was Computer Science, but I found my passion in Visual Communications and Design. Before my illustrious career behind a computer screen I was an avid athlete. I started figure skating at 4 years old, started ballet not too long after that.
+					</ol>
+
+				<h3> Education</h3>
+					<ul>
+						Eastlake High School, 2007-2010<br>
+						Eastern Washington University, 2010-2016
+					</ul>
+
+				<h3>Skills/Hobbies</h3>
+					<ul>
+						Adobe Photoshop, Illustrator, InDesign<br>
+						Microsoft Word, PowerPoint, Excel<br>
+						Figure skating<br>
+					</ul>
+			</section>
+
+		<!--Resume-->
+			<section class = "resume-content">
+				<h3>Work Experience</h3>		
+					<ol><h4>Lab Assistant TA,  Eastern Washington University</h4><br>
+						<ol>As a lab TA, I help the Computer Literacy teachers on their lab days by being in one of the labs for their classes and helping with day to day questions on Word, Excel, and Powerpoint. I also grade papers for the teachers and proctor tests twice a quarter</ol><br>
+						<br>
+						<ol>Responsibilities Include: Grading papers, proctoring tests, and answering questions from the students</ol><br>
+						<ol><h5>Skills Attained: </h5>Communication and time management.</ol>
+					</ol>
+
+					<ol><h4>Waitress, Hostess, Bus-girl,  Family Time Restaurant</h4>
+						<ol>As a hostess and waitress in a Filipino restaurant I had to learn the basis of the Filipino language to help serve customers. </ol><br>
+						<br>
+						<ol>Responsibilities Include: Cleaning and setting tables, putting silverware in napkins, taking customer orders, serving, cashier </ol><br>
+						<ol><h5>Skills Attained: </h5>Patience</ol>
+					</ol>
+
+					<ol><h4>Sales Associate,  Lady Footlocker</h4>
+						<ol>As a sales associate, I work daily to advertise sales and current promotions to help the store meet daily quotas. I help customers with their questions and assist them in making the right choice when choosing shoes and work out apparel.  </ol><br>
+						<br>
+						<ol>Responsibilities Include: Greeting customers, merchandizing, inventory, advertising promotions and sales, listen to customers needs and find the proper solution quick and effectively, assist in closing procedures, while driving sales and exceeding our stores goals.</ol>
+					</ol>
+			</section>
+		</article>
+		<div class = "clearfix"></div>
+		<br>
+		<br>
+			<center><font size ="6">&#8604;		&#8621;		&#8605;</font></center>
+
+		<br>
+		<br>
+	</div>
+
+
+</body>
+</html>
